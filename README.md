@@ -1,4 +1,4 @@
-💻 Aditya Roy — Developer Portfolio
+#💻 Aditya Roy — Developer Portfolio
 Welcome to my personal developer portfolio!
 This portfolio showcases my projects, skills, community work, and experiences as a Full-Stack Developer and Tech Community Lead.
 
